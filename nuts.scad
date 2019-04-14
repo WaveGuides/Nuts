@@ -12,14 +12,14 @@ nut_sides = 6;
 bar_length = 60;
 height = 30;
 wall = 5;
-diagonal_addon = 0.25; // geo-lubricant
+lube = 0.1; // geo-lubricant
 
 
 // B U I L D
 // - - - - -
 
 $fn = 100; // resolution
-diagonal = nut_diagonal + diagonal_addon;
+diagonal = nut_diagonal + lube;
 width = diagonal + wall;
 radius = width/2;
 

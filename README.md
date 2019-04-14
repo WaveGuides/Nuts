@@ -16,8 +16,7 @@ Measured from flat to flat.
 
 ### nut_sides
 
-How many sides does the nut have?  
-Generally six!
+How many sides does the target nut have?  
 
 ### bar_length
 
