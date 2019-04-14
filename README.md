@@ -1,4 +1,4 @@
-# Nuts
+# Nut Driver
 
 3D Printable T-Bar Nut Driver for all your pots-n-jacks. For Eurorack you generally need two sizes: [Hex 11mm](https://github.com/WaveGuides/Nuts/blob/master/nuts_hex_11.stl) for pots and [Hex 8mm](https://github.com/WaveGuides/Nuts/blob/master/nuts_hex_8.stl) for jacks. Plastic is good as you don't scratch your precious faceplate!
 
